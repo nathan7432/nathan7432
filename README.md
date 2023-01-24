@@ -80,7 +80,7 @@ I'm a Software Engineer proficient in both Frontend development and Backend deve
       </a>
       <br />
       <p align="center">
-        <a href="link to Runify repo" target="_blank">
+        <a href="https://github.com/Runify-Labs" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
         </a>
       </p>
@@ -90,49 +90,43 @@ I'm a Software Engineer proficient in both Frontend development and Backend deve
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">TrailHead Map</h3>
+      <h3 align="center">Fuzzy Friends</h3>
       <br />
-      <a target="_blank" href="link to Runify">
-        <img src="./Loading_icon.gif" width="100%" alt="TrailHead App"/>
+      <a target="_blank" href="https://github.com/Emerald-Lake/fuzzy-friends">
+        <img src="./Fuzzy-Friends.gif" width="100%" alt="Fuzzy Friends"/>
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/lucdumas/Traily" target="_blank">
+        <a href="https://github.com/Emerald-Lake/fuzzy-friends" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
         </a>
       </p>
-      <p>this is a test</p>
+      <p>
+        <strong>Typescript, MongoDB, AWS (EC2), Express</strong>
+      - A social network to grow your pup's pack</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Runify</h3>
+      <h3 align="center">Swan</h3>
       <br />
-      <a target="_blank" href="link to Runify app">
-        <img src="./Loading_icon.gif" width="100%" alt="Runify App"/>
+      <a target="_blank" href="https://github.com/hr-fec-hyacinth/fec">
+        <img src="./Swan.gif" width="100%" alt="Swan App"/>
       </a>
       <br />
       <p align="center">
-        <a href="link to Runify repo" target="_blank">
+        <a href="https://github.com/hr-fec-hyacinth/fec" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
         </a>
       </p>
-      <p>this is a test</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Runify</h3>
-      <br />
-      <a target="_blank" href="link to Runify">
-        <img src="./Loading_icon.gif" width="100%" alt="TrailHead App"/>
-      </a>
-      <br />
-      <p align="center">
-        <a href="https://github.com/lucdumas/Traily" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-        </a>
+      <p>
+        <strong>
+          JS, Tailwind CSS, Webpack
+        </strong>
+        - Stylish e-commerce store with SEO optimization
       </p>
-      <p>this is a test</p>
     </td>
+
   </tr>
 </table>
 
