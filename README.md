@@ -68,6 +68,74 @@ I'm a Software Engineer proficient in both Frontend development and Backend deve
 
 <br/>
 
+## My Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Runify</h3>
+      <br />
+      <a target="_blank" href="link to Runify app">
+        <img src="./Runify.gif" width="100%" alt="Runify App"/>
+      </a>
+      <br />
+      <p align="center">
+        <a href="link to Runify repo" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+      </p>
+      <p>
+        <strong>JavaScript, Tailwind CSS, Express</strong>
+        - Application to create Spotify playlists to match a users running cadence!
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">TrailHead Map</h3>
+      <br />
+      <a target="_blank" href="link to Runify">
+        <img src="./Loading_icon.gif" width="100%" alt="TrailHead App"/>
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/lucdumas/Traily" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+      </p>
+      <p>this is a test</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Runify</h3>
+      <br />
+      <a target="_blank" href="link to Runify app">
+        <img src="./Loading_icon.gif" width="100%" alt="Runify App"/>
+      </a>
+      <br />
+      <p align="center">
+        <a href="link to Runify repo" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+      </p>
+      <p>this is a test</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Runify</h3>
+      <br />
+      <a target="_blank" href="link to Runify">
+        <img src="./Loading_icon.gif" width="100%" alt="TrailHead App"/>
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/lucdumas/Traily" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+      </p>
+      <p>this is a test</p>
+    </td>
+  </tr>
+</table>
+
 ## Connect with me
 
 <div align="center">
