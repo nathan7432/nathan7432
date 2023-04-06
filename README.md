@@ -126,6 +126,25 @@ I'm a Software Engineer proficient in both Frontend development and Backend deve
         - Stylish e-commerce store with SEO optimization
       </p>
     </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Sometimes</h3>
+      <br />
+      <a target="_blank" href="https://github.com/orgs/sometimes-app/repositories">
+        <img src="https://res.cloudinary.com/dixtgpaos/image/upload/v1680813990/bear_filled_wayabd.gif" width="100%" alt="Sometimes App"/>
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/orgs/sometimes-app/repositories" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+      </p>
+      <p>
+        <strong>
+          React Native, ASP.NET, OpenAPI, Firebase, 
+        </strong>
+        - A wholesome way to connect with and support your loved ones
+      </p>
+    </td>
 
   </tr>
 </table>
