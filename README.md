@@ -30,7 +30,7 @@ I'm a Software Engineer proficient in both Frontend development and Backend deve
       <img src="https://res.cloudinary.com/dixtgpaos/image/upload/v1680820109/intro-pop-up_demo_rnklw7.gif">
     </td>
     <td>
-      <img src="https://res.cloudinary.com/dixtgpaos/image/upload/v1680825857/archive_demo_bzidbd.gif">
+      <img src="https://res.cloudinary.com/dixtgpaos/image/upload/v1680828148/archive_demo_nmnosp.gif">
     </td>
   </tr>
 </table>
