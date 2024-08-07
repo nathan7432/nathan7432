@@ -4,7 +4,7 @@
 
 <br/>
 
-I'm a Software Engineer proficient in both Frontend development and Backend development. I have knowledge in HTML, CSS, Javascript, Node.Js, Express, MongoDB, and React.
+I'm a Software Engineer with expertise in both front-end and back-end development, specializing in React and Node.js for personal projects, and leveraging Angular and .NET in my recent professional experience.
 
 <br/>
 
